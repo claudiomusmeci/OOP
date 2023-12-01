@@ -1,0 +1,12 @@
+PESI
+Claudio Musmeci
+100
+20.0
+SPINNING
+Graziana Musmeci
+50
+45.5
+KARATE
+Sophia Vittoria
+20
+150.0
