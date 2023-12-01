@@ -1,0 +1,16 @@
+CALCIO
+Claudio Musmeci
+MSMCLD
+12.0
+BASKET
+Graziana Musmeci
+MSMGRZ
+5.5
+TENNIS
+Claudio Musmeci
+MSMCLD
+500.5
+TENNIS
+Aldo Baglio
+BGLALD
+322.5
